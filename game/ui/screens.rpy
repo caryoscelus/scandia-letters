@@ -321,6 +321,13 @@ screen preferences():
             frame:
                 style_group "pref"
                 has vbox
+                label _("Язык")
+                textbutton "Русский" action Language(None)
+                textbutton "English" action Language('english')
+            
+            frame:
+                style_group "pref"
+                has vbox
 
                 label _("Отображать")
                 textbutton _("В окне") action Preference("display", "window")

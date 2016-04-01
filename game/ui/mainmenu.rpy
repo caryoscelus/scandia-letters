@@ -16,3 +16,10 @@ screen main_menu():
         textbutton _("Настройки") action ShowMenu("preferences")
         #textbutton _("Помощь") action Help()
         textbutton _("Выход") action Quit(confirm=False)
+    
+    hbox:
+        yalign 0.0
+        xalign 0.5
+        spacing 50
+        textbutton "Русский" action Language(None)
+        textbutton "English" action Language('english')
