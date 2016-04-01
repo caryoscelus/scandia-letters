@@ -138,3 +138,6 @@ translate english strings:
     old "Нет"
     new "No"
 
+    # game/ui/screens.rpy:324
+    old "Язык"
+    new "Language"
