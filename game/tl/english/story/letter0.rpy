@@ -201,9 +201,9 @@ translate english letter0_3150cb2a:
 translate english letter0_eae61288:
 
     # "- Вот как?.. Ну что же, спасибо, - мужчина прервал меня и, ловко выудив откуда-то из кармана ключи, открыл ящик. - Может, зайдёшь? - внезапно добавил он, разглядывая конверт."
-    "- Is that so?.. Well, thanks, - the man interrupted and having skillfully
-    fished out keys somewhere from the pocket, opened the box. - You wanna come
-    in? - he suddenly added, inspecting the envelope."
+    "- Is that so?.. Well, thanks, - the man interrupted me, skillfully fished
+    out keys somewhere from the pocket and opened the box. - You wanna come in?
+    - he suddenly added, inspecting the envelope."
 
 # game/story/letter0.rpy:97
 translate english letter0_62586852:
@@ -211,7 +211,7 @@ translate english letter0_62586852:
     # "Я был слишком шокирован столь быстрому развитию событий чтобы реагировать нормально. Поэтому когда я открыл рот, пауза слишком уж затянулась и отказываться было бы невежливо. И я промямлил что-то неразборчивое в знак согласия."
     "I was too shocked from such a fast pace of events to react adequately. So,
     when i opened my mouth the pause has been stretched too far and refusal
-    would be impolite. And i mumbled something incoherent in affirmation."
+    would be impolite. And so i mumbled something incoherent in affirmation."
 
 # game/story/letter0.rpy:101
 translate english letter0_76b2fe88_5:
@@ -233,11 +233,11 @@ translate english letter0_6409a33f:
 
     # "Придя в себя, я стал осматривать комнату. Старый паркет, голые стены, на одной из них висит одинокий небольшой ковёр. Напротив дивана, под ковром - небольшая небрежно заправленная кровать. Ближе к окну шкаф, покосившийся от старости. Складной стол около окна, на нём раскрытая книга обложкой вверх и импровизированная пепельница. С потолка тут и там свисают куски штукатурки. Такая вот комната."
     "When i came to senses, i started to inspect the room. Old parquet, empty
-    walls, a small lonely carpet on one of them. In front of sofa, under the
+    walls, a small lonely carpet on one of them. In front of the sofa, under the
     carpet - a small negligently made bed. Closer to the window, a cabinet,
-    lopsided from age. Folding table near the window, an opened book, cover on
-    top and improvised ashtray. Pieces of plaster hanging from the ceiling here
-    and there. Such was the room."
+    lopsided from old age. Folding table near the window with an opened book,
+    cover on top and improvised ashtray on it. Pieces of plaster hanging from
+    the ceiling here and there. Such was the room."
 
 # game/story/letter0.rpy:115
 translate english letter0_61489e94:
@@ -246,7 +246,7 @@ translate english letter0_61489e94:
     "Before i could examine a web above the entrance thoroughly, my new
     acquaintance returned to the room with two glasses of beer in one hand and
     notorious envelope in the other. Silently he threw the envelope on the
-    pillow, gave me on of the glasses and sat on the bed. Springs creaked in
+    pillow, gave me one of the glasses and sat on the bed. Springs creaked in
     protest."
 
 # game/story/letter0.rpy:119
