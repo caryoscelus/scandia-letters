@@ -126,7 +126,7 @@ translate english letter0_89847e63:
     # "Пожалуй, стоит начать с того, что это совершенно нормальный человек. По будням работает на заводе, по выходным развлекается с друзьями и с девчонками. Болеет за футбольную команду нашего городка. Кроме этого, никаких видимых интересов, только бухло: средней паршивости пиво и самогон, который ему присылает какой-то родственник из деревни... В общем, именно такой человек, какими меня пугали в детстве родители, пытаясь воспитывать меня \"интеллигентом\"."
     "Perhaps i should start saying that he is a completely normal person. On
     weekdays works on factory, on weekends is having fun with friends and
-    chicks. Roots for the footbal team of our small town. Apart from that, no
+    chicks. Roots for the football team of our small town. Apart from that, no
     visible interests, only booze: not too lousy beer and moonshine which he
     receives from some relatives in the country... In other words, exactly the
     kind of person which i was being frightened with by my parents in childhood,
@@ -163,7 +163,7 @@ translate english letter0_cf2211fb:
     "So, our acquaintance was purely random and happened thanks to carelessness
     of our postman. One day he has tangled our numbers (seven and eight - how
     could you mess up? Unless he was walking and singing \"the letter for flat
-    vo-o-sem', vo-o-sem', o-o-sem', sem', sem'\" [[tranlation note: vosem' is
+    vo-o-sem', vo-o-sem', o-o-sem', sem', sem'\" [[translation note: vosem' is
     eight and sem' is seven], but this is absurd, right?) and put the letter for
     my neighbour under my door. When i discovered the envelope with unfamiliar
     writing and unfamiliar sender, i checked the receiver address and after
@@ -178,7 +178,7 @@ translate english letter0_bce46de3:
     and leave - but just when i withdrew my fingers from the envelope i heard
     the noise from behind the door and in a moment it swung open, almost hitting
     me. A man of small height and tough constitution appeared behind it. He was
-    unshaved and wore quite ragged clothes."
+    unshaven and wore quite ragged clothes."
 
 # game/story/letter0.rpy:89
 translate english letter0_e61f4b8c:
@@ -309,7 +309,7 @@ translate english letter0_7fddcf8d:
 translate english letter0_423ccd07:
 
     # "Он сделал паузу, отложил письмо в сторону и отпил ещё пива, а затем продолжил:"
-    "He paused, put the letter away and drinked some beer. Then continued:"
+    "He paused, put the letter away and drank some beer. Then continued:"
 
 # game/story/letter0.rpy:146
 translate english letter0_9e8a4fd8:
@@ -398,7 +398,7 @@ translate english letter0_771ba92c:
     # "- Ладно, не бери в голову, - как будто спохватился он и тут же перевёл разговор на другую тему: - Я бы предложил тебе ещё пива, но к сожалению это последнее. Вообще-то, я как раз собирался в магазин, но тут это письмо.."
     "- Well, never mind, - he said as if changing his mind and immediately
     changed the subject: - I would've offered you another beer, but
-    unfortunatelly this was the last. Actually, i was just going to go shopping,
+    unfortunately this was the last. Actually, i was just going to go shopping,
     but then this letter.."
 
 # game/story/letter0.rpy:188
