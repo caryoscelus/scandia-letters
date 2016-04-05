@@ -4,28 +4,29 @@
 translate english letter0_7c0cbb88:
 
     # "Говорят, если посадить обезьяну за печатную машинку, когда-нибудь она напечатает полное собрание сочинений Шекспира. Но я, как ты можешь себе представить, не большой его поклонник. И потому я посадил обезьяну не за машинку, а за рояль. А она сыграла прелюдию и фугу Дэ минор из Хорошо Темперированного Клавира.."
-    "They say that if you put monkey at a typewriter, at some point it will type
-    complete set of works by Shakespeare. But i, as you can imagine, am not his
-    big fan. And thus i did not place monkey at a typewriter, but at a grand
-    piano instead. And it played prelude and fugue D minor from Well Tempered
-    Clavier.."
+    nvl clear # fix weird behaviour
+    "They say that if you put a monkey at a typewriter, at some point it will
+    produce the complete works of Shakespeare. But i, as you can imagine, am not
+    his biggest fan. Thus i did not place a monkey at a typewriter, but at a
+    grand piano instead. And it played prelude and fugue in D minor from Well
+    Tempered Clavier.."
 
 # game/story/letter0.rpy:10
 translate english letter0_511c6e84:
 
     # "Можешь покритиковать мой вкус, но исполнение было великолепным. С тех пор я уже неделю боюсь даже сесть за фортепьяно, осознавая свою никчёмность."
-    "You can criticize my taste, but performance was magnificent. It is already
-    a week since then that i'm afraid to even sit at the piano, realizing my own
-    uselessness."
+    "You can criticize my taste, but the performance was magnificent. It has
+    already been a week since then and i am still afraid to even sit at the
+    piano, realizing my own uselessness."
 
 # game/story/letter0.rpy:12
 translate english letter0_9ea02b91:
 
     # "Впрочем, у всего есть положительные стороны. Я записал обезьяну на пластинку и дал послушать знакомому продюсеру. Он порекомендовал обратиться в один инди-лейбл и там записью заинтересовались. Если я когда-нибудь разбогатею, то наверняка из-за подобной чепухи.."
     "However, everything has a bright side. I recorded the monkey on a disc and
-    gave it to my producer acquaintance. He recommended to go to a specific
-    indie label and they got interested in this record. If i ever will become
-    rich, it's most likely to happen due to some nonsense like this.."
+    gave it to my acquaintance, a producer. He recommended a specific indie
+    label and they showed interest in this record. If i ever become wealthy,
+    it will likely be due to some nonsense like this.."
 
 # game/story/letter0.rpy:16
 translate english letter0_76b2fe88:
@@ -37,23 +38,23 @@ translate english letter0_76b2fe88:
 translate english letter0_82b85f0e:
 
     # "А пока с финансами у меня по-прежнему неважно. Последнюю зарплату я спустил на новейшую мелкозернистую плёнку. Но пока она просто пылится в шкафу, - я боюсь растратить её по пустякам - и мой Зенит по-прежнему заряжен низкосортной дешёвкой. Так что живу я впроголодь, но по утрам любуюсь на коробочку Хаукин и это согревает мне душу. Жалкое зрелище, если вдуматься."
-    "And as of now, my finances are still in a bad shape. I have blown my last
-    salary on the newest small grain film, but at the moment it is only getting
-    dusty in the cabinet - i'm afraid to waste it on trifles - and my Zenit is
-    still loaded with low-quality cheapie. So i live in a hunger, but admire
-    Khaukin box in the morning and this makes my heart warm. Pitiful sight, if
-    you think about it."
+    "And as of now, my finances are still in bad shape. I have blown my last
+    salary on the latest small grain film, but at the moment it only catches
+    dust in the cabinet - i'm afraid to waste it on trifles - and my Zenit is
+    still loaded with cheap trash. So i may live in hunger, but when i admire
+    that box of Khaukin brand film in the morning, it warms my heart. Pitiful
+    sight, if you think about it."
 
 # game/story/letter0.rpy:26
 translate english letter0_155a7bdc:
 
     # "..А ещё недавно один мелкий журнал опубликовал рассказ моего приятеля с несколькими моими иллюстрациями, но я почему-то не рад. Наверное потому, что с тех пор как я работал над ними прошло так много времени, что сегодня они мне кажутся детской мазнёй. Но мои нынешние работы никого не интересуют. Даже моя кошка давно привыкла к запаху проявителей и красок и перестала обращать внимание на мои занятия."
-    "..In other news, one smallish journal has published my pal's short story,
-    which included several illustrations by me, but for some reason i'm not
-    happy about it. Perhaps, because so much time has passed since i worked on
-    them that today they seem to be childish daub to me. But my current works
-    aren't interesting to anybody. Even my cat has long time got used to the
-    smell of photo developers and paints and stopped paying attention to my
+    "..In other news, one smallish journal has published my pal's short story -
+    which included several illustrations by me - but for some reason i'm not
+    happy about it. Perhaps so much time has passed since i worked on
+    them that today they seem to be childish scribble to me. But my current
+    works aren't interesting to anybody. Even my cat has long since gotten used
+    to the smell of photo developer and paint and stopped paying attention to my
     work."
 
 # game/story/letter0.rpy:32
@@ -72,11 +73,11 @@ translate english letter0_76b2fe88_1:
 translate english letter0_03cb18a8:
 
     # "Перечитал написанное и теперь мне кажется, что я опять всё комкаю и пишу неинтересно. В такие моменты я часто начинаю думать, что ты перестанешь читать мои письма и становится ужасно тоскливо. Но сейчас я почему-то подумал о другом. О том, что может быть это я перестану писать тебе. И от этого стало ещё тоскливее. Почему?.."
-    "I've just read the above and now i think that again i am writing clumsily
-    and uninteresting. At these moments i often start thinking that you will
-    stop reading my letters and i get terribly melancholic. But now i somehow
-    thought different. That maybe it will be me who will stop writing you. And
-    i got even more melancholic from that. Why?.."
+    "I've just read the above and now i think that yet again i am writing
+    clumsily and uninteresting. At these moments i often start thinking that
+    you will stop reading my letters and i become terribly melancholic. But now
+    i somehow thought different. That maybe it will be me who will stop writing
+    you. And i got even more melancholic from that. Why?.."
 
 # game/story/letter0.rpy:41
 translate english letter0_79b5d2ef:
@@ -100,19 +101,20 @@ translate english letter0_76b2fe88_2:
 translate english letter0_933d7ce9:
 
     # "Но пожалуй, хватит о грустном. Вчера мой сосед пригласил меня на вечеринку в честь его тридцатилетия в следующее воскресенье. Кажется, будет весело. Много народу, много бухла и громкая музыка. Не могу даже вспомнить, когда последний раз был на подобном мероприятии. Однокурсники часто приглашали меня, но в какой-нибудь клуб, где нужно заплатить кругленькую сумму за вход, так что я всегда отмазывался. А тут можно будет оттянуться на халяву."
-    "But perhaps that's enough of sadness. Yesterday my neighbour had invited me
-    to his thirty year birthday party next sunday. I think it should be fun. A
-    lot of people, a lot of drinks and loud music. I can't even remember when
-    was the last time i was at such event. Fellow students had often invited me,
-    but to some club with high entry fee, so i always invented some excuses. And
-    at this party i will be able to revel for free."
+    "But perhaps enough negavity. Yesterday my neighbour invited me to his
+    thirtieth birthday party, due next sunday. I think it should be fun. Lots of
+    people, lots of drinks and loud music. I can't even remember the last time i
+    went to such an event. Fellow students would often invited me out, but to
+    some club with high entry fee, so i always made excuses. And this party will
+    be a freebie enjoyment."
 
 # game/story/letter0.rpy:52
 translate english letter0_aebb9a7c:
 
     # "Впрочем, о вечеринке наверное лучше будет написать когда она состоится. А пока напишу про соседа. Ведь кажется я ещё не рассказывал о нём?"
-    "However, it might be better to tell about the party afterwards. And for now
-    i'll write about the neighbour. I haven't told about him yet, right?"
+    "However, it might be better to tell about the party after it happens. And
+    for now i'll write about the neighbour. I haven't told about him yet, have
+    i?"
 
 # game/story/letter0.rpy:54
 translate english letter0_76b2fe88_3:
@@ -124,13 +126,13 @@ translate english letter0_76b2fe88_3:
 translate english letter0_89847e63:
 
     # "Пожалуй, стоит начать с того, что это совершенно нормальный человек. По будням работает на заводе, по выходным развлекается с друзьями и с девчонками. Болеет за футбольную команду нашего городка. Кроме этого, никаких видимых интересов, только бухло: средней паршивости пиво и самогон, который ему присылает какой-то родственник из деревни... В общем, именно такой человек, какими меня пугали в детстве родители, пытаясь воспитывать меня \"интеллигентом\"."
-    "Perhaps i should start saying that he is a completely normal person. On
-    weekdays works on factory, on weekends is having fun with friends and
-    chicks. Roots for the football team of our small town. Apart from that, no
-    visible interests, only booze: not too lousy beer and moonshine which he
+    "Perhaps i should start by saying that he is a completely normal person. On
+    weekdays works in a factory, on weekends has fun with friends and females.
+    Roots for the football team of our small town. Apart from that, no apparent
+    interests, only booze: not too lousy beer and moonshine which he
     receives from some relatives in the country... In other words, exactly the
     kind of person which i was being frightened with by my parents in childhood,
-    when they tried to raise me as \"intellectual\"."
+    when they tried to raise an \"intellectual\"."
 
 # game/story/letter0.rpy:64
 translate english letter0_601b2905:
@@ -147,7 +149,7 @@ translate english letter0_601b2905:
 translate english letter0_64923680:
 
     # "Но что-то я забежал вперёд и ушёл в сторону, а начать-то стоило с нашего знакомства."
-    "But i think i've run way too much forward and sideways, while i should've
+    "But i think i've run too much forward and sideways, while i should've
     started with how we met."
 
 # game/story/letter0.rpy:72
@@ -161,7 +163,7 @@ translate english letter0_cf2211fb:
 
     # "Так вот, с соседом мы познакомились совершенно случайно - из-за рассеянности нашего почтальона. Однажды он перепутал наши номера (семь и восемь - казалось бы, как можно спутать? Разве что он шёл и напевал \"письмо в квартиру во-о-семь, во-о-семь, о-о-семь, семь, семь\", но это же абсурд, правда?) и положил письмо соседу мне под дверь. Обнаружив конверт с незнакомым почерком и незнакомым отправителем, я проверил адрес получателя и убедившись в ошибке сразу же пошёл его отнести адресату - на этаж выше."
     "So, our acquaintance was purely random and happened thanks to carelessness
-    of our postman. One day he has tangled our numbers (seven and eight - how
+    of our postman. One day he mixed up our numbers (seven and eight - how
     could you mess up? Unless he was walking and singing \"the letter for flat
     vo-o-sem', vo-o-sem', o-o-sem', sem', sem'\" [[translation note: vosem' is
     eight and sem' is seven], but this is absurd, right?) and put the letter for
@@ -174,11 +176,11 @@ translate english letter0_cf2211fb:
 translate english letter0_bce46de3:
 
     # "Тут бы всё и закончилось - я собирался просто положить письмо в ящик и уйти, - но стоило мне отнять пальцы от конверта, как за дверью послышались шаги и уже через мгновенье она распахнулась, чуть не ударив меня. Из-за неё показался человек невысокого роста и крепкого телосложения. Он был небрит и одет в довольно потрёпанную одежду."
-    "It would be over right there - i only intended to put the letter in mailbox
-    and leave - but just when i withdrew my fingers from the envelope i heard
-    the noise from behind the door and in a moment it swung open, almost hitting
-    me. A man of small height and tough constitution appeared behind it. He was
-    unshaven and wore quite ragged clothes."
+    "It would be over right there - i only intended to put the letter in the
+    mailbox and leave - but just when i withdrew my fingers from the envelope i
+    heard a noise from behind the door. In a moment it swung open, almost
+    hitting me. A man of small height and tough constitution appeared behind it.
+    He was unshaven and wore quite ragged clothes."
 
 # game/story/letter0.rpy:89
 translate english letter0_e61f4b8c:
@@ -193,7 +195,7 @@ translate english letter0_e61f4b8c:
 translate english letter0_3150cb2a:
 
     # "- Я.. эм.. нет, отнюдь. Мне по ошибке пришло письмо, адресованное.. - Тут я замялся и мельком оглядел его ещё раз, прикидывая как к нему обращаться."
-    "- Me.. erm.. no, not at all. I received a letter by mistake, which is
+    "- Me? Erm... no, not at all. I received a letter by mistake, which is
     addressed to.. - Here i stumbled and looked at him again, contemplating how
     to address him."
 
@@ -202,16 +204,17 @@ translate english letter0_eae61288:
 
     # "- Вот как?.. Ну что же, спасибо, - мужчина прервал меня и, ловко выудив откуда-то из кармана ключи, открыл ящик. - Может, зайдёшь? - внезапно добавил он, разглядывая конверт."
     "- Is that so?.. Well, thanks, - the man interrupted me, skillfully fished
-    out keys somewhere from the pocket and opened the box. - You wanna come in?
-    - he suddenly added, inspecting the envelope."
+    out keys somewhere from the pocket and opened the mailbox. - You wanna come
+    in? - he suddenly added, inspecting the envelope."
 
 # game/story/letter0.rpy:97
 translate english letter0_62586852:
 
     # "Я был слишком шокирован столь быстрому развитию событий чтобы реагировать нормально. Поэтому когда я открыл рот, пауза слишком уж затянулась и отказываться было бы невежливо. И я промямлил что-то неразборчивое в знак согласия."
-    "I was too shocked from such a fast pace of events to react adequately. So,
-    when i opened my mouth the pause has been stretched too far and refusal
-    would be impolite. And so i mumbled something incoherent in affirmation."
+    "I was too shocked from such a fast pace of events to react adequately. By
+    the time i opened my mouth to reply, the pause has been stretched too far
+    and refusal would be impolite. so i mumbled something incoherently
+    affirmative."
 
 # game/story/letter0.rpy:101
 translate english letter0_76b2fe88_5:
@@ -223,8 +226,8 @@ translate english letter0_76b2fe88_5:
 translate english letter0_71a2cc75:
 
     # "Вопреки моим ожиданиям, за дверью оказалась не комнатушка наподобие моей, а полноценная однокомнатная квартира с кухней, ванной и туалетом. Усадив меня на диван, хозяин прошёл в вышеупомянутую кухню и забрякал стаканами."
-    "Contrary to my expectations, there was no tiny room similar to mine on the
-    other side of the door, but a full featured one room flat with a kitchen,
+    "Contrary to my expectations, the other side of the door was not a tiny room
+    like mine, but a fully featured one room flat complete with kitchen,
     bathroom and toilet. After sitting me on a sofa, my host went into the
     aforementioned kitchen and started clinking with glasses."
 
@@ -232,22 +235,21 @@ translate english letter0_71a2cc75:
 translate english letter0_6409a33f:
 
     # "Придя в себя, я стал осматривать комнату. Старый паркет, голые стены, на одной из них висит одинокий небольшой ковёр. Напротив дивана, под ковром - небольшая небрежно заправленная кровать. Ближе к окну шкаф, покосившийся от старости. Складной стол около окна, на нём раскрытая книга обложкой вверх и импровизированная пепельница. С потолка тут и там свисают куски штукатурки. Такая вот комната."
-    "When i came to senses, i started to inspect the room. Old parquet, empty
-    walls, a small lonely carpet on one of them. In front of the sofa, under the
-    carpet - a small negligently made bed. Closer to the window, a cabinet,
-    lopsided from old age. Folding table near the window with an opened book,
-    cover on top and improvised ashtray on it. Pieces of plaster hanging from
+    "After i came to senses, i inspected the room. Old parquet, empty walls, a
+    small lonely carpet on one of them. In front of the sofa, beneath the
+    carpet, a small negligently made bed. Closer to the window, a cabinet,
+    lopsided from old age. A folding table near the window with an open book
+    facing down and an improvised ashtray on it. Pieces of plaster hanging from
     the ceiling here and there. Such was the room."
 
 # game/story/letter0.rpy:115
 translate english letter0_61489e94:
 
     # "Не успел я как следует разглядеть паутину над входной дверью, как мой новый знакомый вернулся в комнату с двумя стаканами пива в одной руке и пресловутым конвертом в другой. Он молча бросил конверт на подушку, протянул мне один стакан и сел на кровать. Пружины недовольно заскрипели."
-    "Before i could examine a web above the entrance thoroughly, my new
-    acquaintance returned to the room with two glasses of beer in one hand and
-    notorious envelope in the other. Silently he threw the envelope on the
-    pillow, gave me one of the glasses and sat on the bed. Springs creaked in
-    protest."
+    "Before i could thouroughly examine a cobweb above the entrance, my new
+    acquaintance returned with two glasses of beer in one hand and the notorious
+    envelope in the other. Silently he threw the envelope on the pillow, gave me
+    one of the glasses and sat on the bed. Springs creaked in protest."
 
 # game/story/letter0.rpy:119
 translate english letter0_76b2fe88_6:
@@ -266,26 +268,27 @@ translate english letter0_71c9e6f8:
 translate english letter0_00adb0fd:
 
     # "Я не мог не воспользоваться случаем и протянул ему недавно изготовленную визитку, а затем представился."
-    "I couldn't miss the chance and extended him a fresh made business card and
-    then introduced myself."
+    "I couldn't miss the chance and extended him a freshly made business card
+    and then introduced myself."
 
 # game/story/letter0.rpy:126
 translate english letter0_1e52d577:
 
     # "- Ух ты, - протянул он, разглядывая карточку. Затем улыбнулся и произнёс: - Ну, за знакомство!"
-    "- Wow, - he said slowly, looking at the card. Then smiled and said: - Well,
-    here's to our acquaintance!"
+    "- Wow, - he said slowly as he looked at the card. Then smiled and said:
+    - Well, here's to our acquaintance!"
 
 # game/story/letter0.rpy:128
 translate english letter0_ce35a715:
 
     # "Мы чокнулись и выпили. Пиво оказалось приятно прохладным. Только ощутив эту прохладу, я наконец заметил, что в комнате неестественно жарко, несмотря на раннюю весну. Судя по слабому запаху, на который я раньше не обратил внимания, в кухне что-то готовилось. Впрочем, было не время для подобных отвлечённых наблюдений. Сделав несколько глотков и поставив стакан на пол, Толик поднял конверт и, немного повертев, надорвал его."
-    "We touched glasses and drank. The beer was pleasantly cool. Only after
-    sensing this coolness i finally noticed that it was unnaturally hot in the
-    room despite early spring. Judging by weak smell, which i wasn't paying
-    attention to earlier, something was cooking in the kitchen. However, there
-    was no time for such unrelated observations. After few gulps, Tolik put his
-    glass on the floor, took the envelope and after some twisting, tore it."
+    "We touched our glasses and drank. The beer was pleasantly cool. Only after
+    sensing this coolness did i finally notice that it was unnaturally hot in
+    the room, despite early spring. Judging by faint smell, which i wasn't
+    paying attention to earlier, something was cooking in the kitchen. However,
+    there was no time for such unrelated observations. After a few gulps, Tolik
+    put his glass on the floor, took the envelope, twisted it in his hands and
+    tore it open."
 
 # game/story/letter0.rpy:134
 translate english letter0_76b2fe88_7:
@@ -315,12 +318,12 @@ translate english letter0_423ccd07:
 translate english letter0_9e8a4fd8:
 
     # "- Так вот, каждый раз когда это случается, письмо приходит в распечатанном конверте. \"Я понял, что это ошибка, только открыв конверт\", \"Мне и в голову не приходило, что могли так напутать\" или \"Вы не волнуйтесь, я ничего не успела прочитать\". Все они говорят или пишут что-то подобное. Ну или не пишут ничего, просто бросают открытый конверт и уходят... Так что.. ты первый, кто вернул мне письмо запечатанным."
-    "- So, every time when this happens i receive the letter in an open 
-    envelope. \"I realized it was mistake only after opening the envelope\", \"I
+    "- So, every time this happens, i receive the letter in an opened envelope.
+    \"I realized it was mistake only after opening the envelope\", \"I
     couldn't even imagine they could mess up like this\" or \"Don't be afraid,
     i haven't read anything\". They all say or write something like this. Or
-    don't write anything, just throw the torn envelope and leave.. So.. you're
-    the first to return me sealed letter."
+    don't write anything, just throw the torn envelope in and leave.. So..
+    you're the first to return a sealed letter."
 
 # game/story/letter0.rpy:152
 translate english letter0_db1d850a:
@@ -329,8 +332,8 @@ translate english letter0_db1d850a:
     # "Ненадолго воцарилась тишина. Когда я отхлебнул пива, глоток прозвучал неестественно громко. Я не знал, что ответить, и просто ждал продолжения."
     nvl clear
     "There was a short silence. When i swallowed some beer, the gulp sounded
-    unnaturally loud. I didn't know what to answer and just waited for
-    continuation."
+    unnaturally loud. I didn't know what to answer and just waited for Tolik to
+    continue."
 
 # game/story/letter0.rpy:155
 translate english letter0_43a9c672:
@@ -343,30 +346,30 @@ translate english letter0_43a9c672:
 translate english letter0_b92ac55d:
 
     # "- Э.. - протянул я и задумался. Кажется, мне даже не пришло в голову распечатывать конверт когда я заметил ошибку. Я лишь удивился рассеянному почтальону и решил разобраться с этим поскорее. - Не знаю.. Наверное, мне это просто не пришло в голову."
-    "- Erm.. - i mumbled and began to think. It seemed i haven't even thought of
-    opening the envelope when i noticed the mistake. I was only surprised by
-    careless postman and decided to get it over with as soon as possible. - I
-    don't know.. Perhaps i just haven't thought about it."
+    "- Erm.. - i mumbled and began to think. It seemed i hadn't even thought of
+    opening the envelope when i noticed the mistake. I was only surprised by the
+    carelessness of the postman and decided to get it over with as soon as
+    possible. - I don't know.. Perhaps i just haven't thought about it."
 
 # game/story/letter0.rpy:163
 translate english letter0_2e3d14cd:
 
     # "- Ха-ха, а ты странный! Но, раз уж ты сам не стал читать письмо, я расскажу тебе, о чём оно. Дело в том, что я развожусь. - Он поднялся с кровати и подошёл к окну, достал сигарету из пачки на подоконнике и закурил. Затем, сделав пару затяжек, продолжил: - Уже несколько месяцев развожусь и всё никак не могу закончить. Чёртовы юристы!"
-    "- Ha-ha, you're strange! But since you haven't read letter yourself, i will
-    tell you what it is about. In a matter fact, i am getting a divorce. - He
-    got up from the bed and approached window, took a cigarette from a pack on
-    the window still and began to smoke. Then, after a couple of puffs,
-    continued: - I am divorcing for a few months already and still cannot get it
-    over with. Damned lawyers!"
+    "- Ha-ha, you're strange! But since you haven't read the letter yourself, i
+    will tell you about it. As a matter of fact, i am getting a divorce. - He
+    got up from the bed and approached window, taking a cigarette from a pack
+    there and began to smoke. After a couple of puffs, he continued: - I have
+    been getting a divorce for a few months now and still cannot get it over
+    with. Damned lawyers!"
 
 # game/story/letter0.rpy:168
 translate english letter0_e3b8bc02:
 
     # "Толик замолчал и принялся ходить по комнате, но было видно, что он не закончил. Я молча ждал продолжения, временами потягивая пиво."
     nvl clear
-    "Tolik stopped talking and started walking around the room, but it could be
-    seen that he hasn't finished. I silently waited for continuation, sometimes
-    sipping my beer."
+    "Tolik stopped talking and started walking around the room, but it was
+    obvious that he wasn't finished. I silently waited, sometimes sipping my
+    beer."
 
 # game/story/letter0.rpy:170
 translate english letter0_61339e87:
@@ -375,9 +378,9 @@ translate english letter0_61339e87:
     # "- Хотя конечно во всём виновата она. Бросила меня четыре года назад, убежав с каким-то певчиком. А теперь, когда тот её бросил, пытается ограбить меня при помощи всех этих юридических уловок. Знал бы, сразу бы настоял на разводе. Но мне тогда сказали, что это мол сложно и денег будет стоить, если без неё развод организовать. Чёртовы юристы! - повторил он и наконец замолчал."
     nvl clear
     "- But of course it's all her fault. Dumped me four years ago, run away with
-    some songbird. And now, when he dumped her, she tries to rob me with all
-    those legal tricks. If i only i knew, i would've insisted upon divorce back
-    then. But i was told that it is hard and would cost me a bunch, if the
+    some songbird. And now, after he dumped her, she tries to rob me with all
+    those legal tricks. If only i had known, i would've insisted on divorce back
+    then. But i was told that it was hard and would cost me a bunch, if the
     divorce is made without her. Damned lawyers! - he repeated and finally fell
     silent."
 
@@ -386,17 +389,16 @@ translate english letter0_d7af46b9:
 
     # "Я сделал несколько последних глотков и прикончил содержимое стакана. Внезапно мне показалось, что если я так и останусь сидеть на этом диване, он непременно расскажет мне если не всю историю своей жизни, то по крайней мере всё, что связано с его женой. Поэтому я встал и, подойдя к окну, поставил пустой стакан на подоконник. Взглянув на небо, я увидел как одинокое облако проплывает над унылым городским пейзажем."
     "I made a few final gulps and finished my glass. Suddenly it seemed to me
-    that if i would continue sitting on this sofa, he will definitely tell me if
+    that if i continued sitting on this sofa, he would definitely tell me, if
     not his whole life story, then at least everything related to his wife. So i
-    got up, approached the window and put the empty glass on window still.
-    Looking at the sky, i saw a lonely cloud floating above dull city
-    landscape."
+    got up, approached the window and put the empty glass on the still. Looking
+    at the sky, i saw a lonely cloud floating above dull city landscape."
 
 # game/story/letter0.rpy:185
 translate english letter0_771ba92c:
 
     # "- Ладно, не бери в голову, - как будто спохватился он и тут же перевёл разговор на другую тему: - Я бы предложил тебе ещё пива, но к сожалению это последнее. Вообще-то, я как раз собирался в магазин, но тут это письмо.."
-    "- Well, never mind, - he said as if changing his mind and immediately
+    "- Well, never mind, - he said, as if changing his mind and immediately
     changed the subject: - I would've offered you another beer, but
     unfortunately this was the last. Actually, i was just going to go shopping,
     but then this letter.."
@@ -407,18 +409,17 @@ translate english letter0_050aca6f:
     # nvl clear
     # "Я подумал было, что наступил подходящий момент, чтобы сказать \"мне пора\" и свалить, но потом передумал. У меня возникло ощущение, что он и сам уже не прочь от меня избавиться, и захотелось посмотреть, как же он это сделает."
     nvl clear
-    "I thought that the moment came to say \"i should go\" and flee, but then
-    changed my mind. I had a feeling that he wouldn't mind getting rid of me
-    himself and i decided to see how will he perform it."
+    "I thought that the moment had come for me to say \"i should go\" and flee,
+    but then i changed my mind. I had a feeling that he wouldn't mind getting
+    rid of me himself and i wanted to see how he would perform it."
 
 # game/story/letter0.rpy:192
 translate english letter0_1dabaad6:
 
     # "Впрочем, ничего интересного не произошло: он просто сказал, что теперь ему действительно пора в магазин за каким-то соусом. (Видимо, для того блюда, которое приготовлялось на кухне, издавая всё более заметный аромат). На этом мы и расстались."
-    "However, nothing interesting happened: he just said that now he definitely
-    must go to the shop to fetch some sauce. (Perhaps for that dish which was
-    cooking on the kitchen, making more and more strong aroma). And so we
-    parted."
+    "However, nothing interesting happened. He just said that now he must
+    definitely go to the shop to fetch some sauce. (Perhaps for that dish
+    cooking in the kitchen, which now made stronger aroma). And so we parted."
 
 # game/story/letter0.rpy:196
 translate english letter0_a20cefa7_1:
@@ -432,9 +433,9 @@ translate english letter0_8379b4d2:
     # nvl clear
     # "Вот такое вот знакомство. Если тебе интересно, в следующий раз я расскажу про него что-нибудь ещё. Но сейчас пора заканчивать это письмо, а то я опоздаю отнести его на почту."
     nvl clear
-    "That was how we met. If you are interested, next time i'll tell more about
-    him. But now i must finish this letter or i'll be late to take it to the
-    post office."
+    "That was how we met. If you are interested, next time i'll tell you more
+    about him. But now i must finish this letter or i'll be late to take it to
+    the post office."
 
 # game/story/letter0.rpy:201
 translate english letter0_79b5d2ef_1:
