@@ -1,4 +1,5 @@
 label letter0:
+    nvl clear
     scene ui bg
     show letter0 piano chimp at illustration:
         zoom 0.35
