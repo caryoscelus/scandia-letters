@@ -454,3 +454,11 @@ translate english letter0_ad978f57:
 
     # "А ещё у меня на подоконнике расцвёл кактус."
     "Also, a cactus started to blossom on my window."
+# TODO: Translation updated at 2016-04-09 00:25
+
+# game/story/letter0.rpy:135
+translate english letter0_76b2fe88_8:
+
+    # nvl clear
+    nvl clear
+
