@@ -151,7 +151,8 @@ init -1 python hide:
 
     ## The default size of text.
 
-    # style.default.size = 22
+    style.default.size = 20
+    style.default.color = '#111'
 
     ## Note that these only change the size of some of the text. Other
     ## buttons have their own styles.

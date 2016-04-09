@@ -1,4 +1,4 @@
-define narrator = Character(None, kind=nvl, what_color='#111', what_size=20)
+define narrator = Character(None, kind=nvl)
 
 transform illustration:
     xalign 0.94
@@ -13,5 +13,10 @@ screen display_note(title, text):
         hbox:
             spacing 10
             textbutton "x" action Return()
-            text title
-        text text
+            text title color '#fff'
+        text text color '#fff'
+
+# hyperlinks
+init python:
+    style.hyperlink_text = Style(style.say_dialogue)
+    style.hyperlink_text.hover_underline = True
