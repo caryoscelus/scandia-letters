@@ -165,12 +165,19 @@ translate english letter0_cf2211fb:
     "So, our acquaintance was purely random and happened thanks to carelessness
     of our postman. One day he mixed up our numbers (seven and eight - how
     could you mess up? Unless he was walking and singing \"the letter for flat
-    vo-o-sem', vo-o-sem', o-o-sem', sem', sem'\" [[translation note: vosem' is
-    eight and sem' is seven], but this is absurd, right?) and put the letter for
-    my neighbour under my door. When i discovered the envelope with unfamiliar
-    writing and unfamiliar sender, i checked the receiver address and after
-    making sure it's a mistake immediately went to take it to addressee - one
-    floor above."
+    {a=letter0_english_note0}vo-o-sem', vo-o-sem', o-o-sem', sem', sem'*{/a}\",
+    but this is absurd, right?) and put the letter for my neighbour under my
+    door. When i discovered the envelope with unfamiliar writing and unfamiliar
+    sender, i checked the receiver address and after making sure it's a mistake
+    immediately went to take it to addressee - one floor above."
+
+label letter0_english_note0:
+    window show
+    call screen display_note("Translation note",
+                             "vosem' is eight, sem' is seven.",
+                             _layer='overlay')
+    window hide
+    return
 
 # game/story/letter0.rpy:84
 translate english letter0_bce46de3:
