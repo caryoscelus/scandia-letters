@@ -17,24 +17,24 @@ translate english letter1_9e249aea:
 translate english letter1_89d92227:
 
     # "Вчера, когда рылся в старых бумагах, я наткнулся на эту строчку, много раз правленную, а затем всё равно отброшенную на свалку истории. Неудивительно: даже возомнивший себя писателем школьник, который написал её, всё же сумел понять чрезмерную претенциозность подобных аллюзий. Или же он, напротив, решил, что его творения выше того, чтобы цитировать классику?.."
-    "Yesterday, when i was digging through old papers, i stumbled upon this
+    "Yesterday, when i was digging through some old papers, i stumbled upon this
     line, many times edited and then thrown into ash heap of history anyway. Not
     surprising: even school boy who wrote it, imagining being a writer, even he
     came to understand overwhelming pretentiousness of such allusions. Or maybe
-    he, on the contrary, decided that his creations are higher than quoting
+    he, on the contrary, decided that his creations are higher than to quote
     classics?.."
 
 # game/story/letter1.rpy:13
 translate english letter1_f7f2c05c:
 
     # "Увы, на этот вопрос у меня нет ответа. Слишком смутно я помню те времена и по правде сказать даже не уверен в том, кто изначально придумал эту строку. Записал и правил её я - это видно по почерку, - но была ли она плодом моего собственного ума или же я лишь услышал её где-то и решил использовать - не помню. Однако в моей памяти довольно неплохо сохранилось то, что должно было последовать за этим \"блистательным\" началом: это была история о человеке, намеренно сходившим с ума."
-    "Sadly, to that question i don't have an answer. I remember those times too
-    blurry and honestly i'm not ever positive about who initially thought up
+    "Alas, to that question i don't have an answer. I remember those times too
+    blurry and honestly i'm not even positive about who initially thought up
     that line. It was written and edited by me - obvious from handwriting - but
-    was it a result of my own mind or i just heard it somewhere and decided to
-    use - that i don't remember. However, i still hold in my memory what should
-    have followed this \"spectacular\" beginning: it was a story of a man who
-    was intentionally losing his mind."
+    was it a product of my own mind or had i only heard it somewhere and decided
+    to use - that i don't remember. However, i still hold in my memory what
+    should have followed this \"spectacular\" beginning: it was a story of a man
+    who was intentionally losing his mind."
 
 # game/story/letter1.rpy:20
 translate english letter1_76b2fe88_1:
@@ -43,16 +43,16 @@ translate english letter1_76b2fe88_1:
     nvl clear
 
 # game/story/letter1.rpy:23
-translate english letter1_6646b1ea:
+translate english letter1_ba5f41fb:
 
-    # "\"Зачем?\" - наверное, удивишься ты. О, это был очень амбициозный человек, но к своему несчастью не имевший ни одного таланта. Он закончил университет и консерваторию, провёл несколько лет в учениках одного именитого художника, но всё было напрасно. За что бы он ни брался, всё выходило у него неплохо. \"Неплохо\" - о, как возненавидел он это слово. Он не мог сделать ничего по-настоящему нового и волнующего. Его исследования были столь же точны, сколь и незначительны. Его творчество повторяло лучшие работы мастеров, не добавляя ничего своего."
+    # "\"Зачем?\" - наверное, удивишься ты. О, это был очень амбициозный человек, но к своему несчастью не имевший ни одного таланта. Он закончил университет и консерваторию, провёл несколько лет в учениках одного именитого художника, но всё было напрасно. За что бы он ни брался, всё выходило у него неплохо. \"Неплохо\" - о, как возненавидел он это слово! Он не мог сделать ничего по-настоящему нового и волнующего. Его исследования были столь же точны, сколь и незначительны. Его творчество повторяло лучшие работы мастеров, не добавляя ничего своего."
     "\"What for?\" - you might ask in surprise. Oh, it was a very ambitious
-    person, whose misfortune was lack of any talent. He finished university and
-    conservatory, spent several years as a student of a famous painter, but all
-    in vain. No matter what he tried, everything he did was not bad. \"Not bad\"
-    - oh, how he loathed these words. He couldn't make anything really new and
-    exciting. His research was as accurate as it was insignificant. His creative
-    works repeated best masters' works, not adding anything his own."
+    person, whose misfortune was the lack of any talent. He finished university
+    and conservatory, spent several years as a student of a famous painter, but
+    all in vain. No matter what he tried, everything he did was not bad. \"Not
+    bad\" - oh, how he loathed these words! He couldn't make anything really new
+    and exciting. His research was as accurate as it was insignificant. His
+    creative works repeated best masters' works, not adding anything his own."
 
 # game/story/letter1.rpy:33
 translate english letter1_bb1ec5f2:
@@ -73,12 +73,12 @@ translate english letter1_aa8b8c38:
     nvl clear
     "However, when he finally approached the hill, on which castle stood, he
     realized his mistake. A bunch of well beaten trails ascended to the top and
-    gardens could be seen nearby. It was already evening, the sun approaching
-    the horizon and thus our Wanderer met a human being only after ascending to
-    the fortified wall. The man he saw was old Watchman, looking at whom one
-    might have thought that he spent few decades on his post, hoping to meet
-    some infringer, whom he could detain. When he saw Wanderer, his eyes started
-    to glow."
+    gardens could be seen nearby. It was already evening, the sun was
+    approaching the horizon and thus our Wanderer met a human only after
+    ascending to the fortified wall. The man he saw was old Watchman, looking at
+    whom one might have thought that he spent few decades on his post, hoping to
+    meet some infringer, whom he could detain. When he saw Wanderer, his eyes
+    started to glow."
 
 # game/story/letter1.rpy:50
 translate english letter1_699e82cf:
@@ -90,7 +90,7 @@ translate english letter1_699e82cf:
 translate english letter1_5dc8b7e4:
 
     # "- Я ищу ночлега. Что угодно, лишь бы была крыша над головой."
-    "- I seek a shelter for the night. Anything will do as long as i have roof
+    "- I seek a shelter for the night. Anything will do as long as i have a roof
     above me."
 
 # game/story/letter1.rpy:52
@@ -120,19 +120,19 @@ translate english letter1_55e52205:
     castle was made into a mental hospital. He walked through narrow streets and
     corridors, through sometime luxurious and now worn out halls and watched all
     thinkable and unthinkable manifestations of mind defects. Sometimes he saw
-    doctors as well, but they mostly differed by wearing white gowns and lack of
-    chains, which however were put only on the most wild patients."
+    doctors as well, but they mostly differed by wearing white gowns and by lack
+    of chains, which however were put only on the most wild patients."
 
 # game/story/letter1.rpy:64
 translate english letter1_bb7d0642:
 
     # "Когда Странник добрался до центральной башни замка - привратник велел идти туда и поговорить с \"настоятелем\" - ему уже стало плохо от страданий и бреда, которыми был пропитан сам воздух. Поднимаясь по высоким каменным ступеням, он проклинал себя за то, что пришёл сюда. Но наконец добравшись до самого верха и войдя в единственную комнату, он ощутил странное спокойствие: здесь не были слышны вопли, стоны, стенания и странные, нечеловеческие голоса."
-    "When Wanderer reached castle's central tower - Watchman ordered him to go
+    "When Wanderer reached the central castle tower - Watchman ordered him to go
     there and talk to \"prior\" - he was already sick from pain and ravings,
     which filled the very air. Ascending high stone steps, he was cursing
     himself for coming here. But when he finally reached the very top and
     entered the sole room, he felt strange serenity for he could no longer hear
-    all the screams, moans and strange, unhuman voices."
+    all the screams, moans and strange, inhuman voices."
 
 # game/story/letter1.rpy:73
 translate english letter1_464f88b3:
@@ -143,27 +143,27 @@ translate english letter1_464f88b3:
     humble dwelling. Please, seat down."
 
 # game/story/letter1.rpy:76
-translate english letter1_564a0ec8:
+translate english letter1_d0a54d57:
 
     # nvl clear
-    # "...Вот так Странник познакомился с Настоятелем, который посвятил свою жизнь изучению человеческого рассудка. Три ночи провёл Странник в замке и успел о многом поговорить с Настоятелем. Тот предлагал ему остаться, но Странник чувствовал, что должен идти дальше."
+    # "...Вот так Странник познакомился с Настоятелем, который посвятил свою жизнь изучению человеческого рассудка. Три ночи провёл Странник в замке и успел о многом поговорить с Настоятелем. Тот предлагал ему остаться, но Странник чувствовал, что должен идти дальше..."
     nvl clear
-    "...And that's how Wanderer got acquinted with Prior, who had devoted his
+    "...And that's how Wanderer got acquainted with Prior, who had devoted his
     life to studying human mind. Three nights Wanderer had spent in the castle
     and talked about a lot of things with Prior. The latter proposed him to
-    stay, but Wanderer felt that he should go further."
+    stay, but Wanderer felt that he should go further..."
 
 # game/story/letter1.rpy:83
-translate english letter1_a6658d3b:
+translate english letter1_3073fcbd:
 
-    # "Прошло несколько недель и наступила осень, но Странник продолжал идти на север. Человеческое жильё всё реже встречалось на его пути и всё чаще он проводил ночи, борясь с холодами. Смутная идея, зародившаяся у него ещё в замке, постепенно давала ростки в его сознании. Образ Настоятеля всё чаще приходил к нему тёмными вечерами и шептал \"...человеческий рассудок есть величайшая загадка вселенной... ...чем не пожертвуешь ради столь великой цели!.. ...но всё же чего-то мне не хватает и подойдя столь близко к ответу, я всё же не вижу его...\""
+    # "Прошло несколько недель и наступила осень, но Странник продолжал идти на север. Человеческое жильё всё реже встречалось на его пути и всё чаще он проводил ночи, борясь с холодами. Смутная идея, зародившаяся у него ещё в замке, постепенно давала ростки в его сознании. Образ Настоятеля всё чаще приходил к нему тёмными вечерами и шептал \"...человеческий рассудок есть величайшая загадка вселенной.......чем не пожертвуешь ради столь великой цели!......но всё же чего-то мне не хватает и подойдя столь близко к ответу, я всё же не вижу его...\""
     "Several weeks had passed and autumn had come, but Wanderer continued going
     north. Human dwelling was more and more rare on his path and more and more
     often had he spent nights fighting coldness. Hazy idea, which was already
     born in his mind when he was in the castle, steadily started to sprout. More
     and more often, the image of Prior had been coming to him and whispering
-    \"...human mind is the greatest mystery of universe... ...what would you not
-    sacrifice for such a great goal!.. ...but still there is something lacking
+    \"...human mind is the greatest mystery of universe.......what would you not
+    sacrifice for such a great goal!......but still there is something lacking
     and having approached so close to the answer, i still cannot see it...\""
 
 # game/story/letter1.rpy:91
@@ -172,12 +172,12 @@ translate english letter1_e974da48:
     # nvl clear
     # "Кто-то может решить, что уже тогда, слыша голос Настоятеля в шуме потрескивающего костра, Странник начал сходить с ума. Однако, его видения были столь же безобидны, сколь и обыкновенный бред, вызванный лихорадкой. Если бы в этот момент он кто-то указал бы ему цель, достойную преследования, и путь, пусть долгий, но ведущий к этой цели, вне всяких сомнений наш герой остался бы в здравом уме. Но судьба распорядилась иначе. Он остался один и одной особенно холодной ночью решил посвятить свою жизнь исследованию разума на собственном примере..."
     nvl clear
-    "Somebody can think that even then, hearing the voice of Prior in the noise
-    of cracking fire, Wanderer started losing his mind. However, his visions
-    were as harmless as the usual delirium caused by fever. If at that moment
-    somebody would show him a goal, worth pursuing, and path, maybe long, but
-    leading to that goal, then without a doubt our hero would remain sane. But
-    the fate decided otherwise. He remained alone and on one especially cold
+    "Somebody can think that then, hearing the voice of Prior in the noise of
+    cracking fire, Wanderer had already started losing his mind. However, his
+    visions were as harmless as the usual delirium caused by fever. If at that
+    moment somebody would show him a goal worth pursuing, and path, maybe long,
+    but leading to that goal, then without a doubt our hero would remain sane.
+    But the fate decided otherwise. He remained alone and on one especially cold
     night decided to devote his life to studying human mind on his own
     example..."
 
@@ -209,7 +209,7 @@ translate english letter1_ff8570f3:
     coldness seeps through many cracks in the window. But i even like such
     weather. I could've spent hours sitting and watching: water spurts, running
     down the glass; wet, still naked tree branches; rare pedestrians, muffling
-    their gloomy faces in collars and hoodies.. Alas, i have to sit at the
+    their gloomy faces in collars and hoods.. Alas, i have to sit at the
     table, stuck in books and notebooks. This letter i write in intermissions,
     when i get finally fed up with translating ancient Roman verses."
 
@@ -232,7 +232,7 @@ translate english letter1_d0691a0e:
 
     # "Когда профессор де Ансье нагрузил нас этими переводами и наконец отпустил с утомительной лекции, один мой однокурсник - Михайло, как он себя называет - нарочито громко заявил \"И начерта нам эти Вергилии? Что, современных поэтов мало?\" Профессор успел лишь злобно посмотреть ему вслед, но и среди студентов нашёлся заступник римского классика - один из знатоков латыни на нашем курсе, Иван Козлов."
     "When professor de Ansie has loaded us with these translations and finally
-    let us go from tiresome lecture, one my classmate - Mihailo as he calles
+    let us go from tiresome lecture, one my classmate - Mihailo as he calls
     himself - said in deliberately loud voice: \"Why the hell would we need
     those Virgils? What, do we lack modern poets?\" Professor could only angrily
     look at his back, but even among students a protector of Roman classic was
@@ -243,12 +243,12 @@ translate english letter1_e81a53c2:
 
     # "- Да чего стоят все эти ваши современные \"гении\"? Всё, что они могут - это изобретать новые способы шокировать изумлённую публику своим отрицанием правил и традиций. Поэты древности писали эпос о судьбах героев и богов, народов и властителей, о великих победах и поражениях. А ваши модернисты пишут о чём-нибудь мелком, несущественном или несуществующем, о... - тут он замялся, подбирая слова, но продолжить ему уже не дали. Кружок спорящих и просто наблюдателей вроде меня бесцеремонно разорвала Анна - девушка, известная своей эксцентричностью на весь университет."
     "- But what are all your modern \"geniuses\"? All they can is inventing new
-    methods of shocking astonished public with their denying rules and
+    methods of shocking astonished public with their denial of rules and
     traditions. Poets of ancient times wrote epics about fates of heroes and
     gods, nations and rulers, about great victories and defeats. And your
-    modernists write about something smallish, inessential or essenseless,
+    modernists write about something smallish, inessential or essenceless,
     about... - he stumbled, looking for words, but he wasn't allowed to finish.
-    A circle of arguing and just observers like me was abruptly broken by Anna -
+    A circle of arguers and mere observers like me was abruptly broken by Anna -
     a girl famous in the whole university for her eccentricity."
 
 # game/story/letter1.rpy:133
@@ -300,8 +300,8 @@ translate english letter1_76b2fe88_6:
 translate english letter1_9913dcbf:
 
     # "Она продекламировала эти два четверостишья с театральным выражением отрешённости и тут же ушла, сопровождаемая восхищёнными, раздражёнными и завистливыми взглядами. \"Защитник Вергилия\" презрительно оглядел собравшихся и хотел было уйти, но его остановил один из многочисленных поклонников Анны."
-    "She recited these two quatrains with theatric expression of detachment and
-    left at once, being seen off by admirating, annoyed and envious glances.
+    "She recited these two quatrains with theatrical expression of detachment
+    and left at once, being seen off by admiring, annoyed and envious glances.
     \"Virgil's defender\" looked at the circle with contempt and wanted to
     leave, but he was stopped by one of the many Anna's admirers."
 
@@ -316,16 +316,16 @@ translate english letter1_d366e3f7:
 translate english letter1_13d38699:
 
     # "Впрочем, что было дальше я не знаю. Дело запахло дракой или по крайней мере бессмысленной руганью, и я ушёл. На следующий день эти стихи были намалёваны на стене одного из университетских зданий. Могу представить себе, как взбесился бы де Ансье, если бы узнал что послужил косвенной причиной такому \"поэтическому вандализму\"."
-    "However, i don't know what happened next. It started to smell with fight or
-    at least meaningless quarrel and i left. On the next day these verses were
-    painted on the wall of a university building. I can imagine how infuriated
-    de Ansie would be, if he would learn that he was indirect reason for such
-    \"poetical vandalism\"."
+    "However, i don't know what happened next. It started to smell of fighting
+    or at least meaningless quarrel and i left. On the next day these verses
+    were painted on the wall of a university building. I can imagine how
+    infuriated de Ansie would be, if he would learn that he was indirect reason
+    for such \"poetical vandalism\"."
 
 # game/story/letter1.rpy:164
 translate english letter1_d3dcd033:
 
     # "Ну а мне пожалуй пора возвращаться к его заданию, ведь завтра вечеринка и подобными вещами заниматься уже не захочется."
     "And i should perhaps return to his assignment since tomorrow is a party so
-    i won't be willing to such things."
+    i won't be willing to do such things."
 
