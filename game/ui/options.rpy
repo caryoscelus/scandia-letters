@@ -119,7 +119,7 @@ init -1 python hide:
     style.nvl_window.top_padding = 50
     style.nvl_window.bottom_padding = 50
     style.nvl_window.left_padding = 50
-    style.nvl_window.right_padding = 530
+    style.nvl_window.right_padding = 520
 
 
     #########################################
