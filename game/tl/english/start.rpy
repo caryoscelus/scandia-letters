@@ -8,5 +8,5 @@ translate english strings:
 
     # game/start.rpy:2
     old "19-е жерминаля"
-    new "Germinal, 19th (not ready yet)"
+    new "Germinal, 19th"
 
