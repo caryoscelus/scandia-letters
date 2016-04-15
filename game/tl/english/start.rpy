@@ -10,3 +10,6 @@ translate english strings:
     old "19-е жерминаля"
     new "Germinal, 19th"
 
+    # game/start.rpy:2
+    old "26-е жерминаля"
+    new "Germinal, 26th (not ready)"
