@@ -31,7 +31,7 @@ init -1 python hide:
     # These control the name and version of the game, that are reported
     # with tracebacks and other debugging logs.
     config.name = "scandia-letters"
-    config.version = "0.0.2"
+    config.version = "2016.04.15"
 
     #########################################
     # Themes
