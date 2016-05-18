@@ -34,10 +34,10 @@ translate english letter0_76b2fe88:
     # nvl clear
     nvl clear
 
-# game/story/letter0.rpy:19
-translate english letter0_82b85f0e:
+# game/story/letter0.rpy:20
+translate english letter0_3e96ea1a:
 
-    # "А пока с финансами у меня по-прежнему неважно. Последнюю зарплату я спустил на новейшую мелкозернистую плёнку. Но пока она просто пылится в шкафу, - я боюсь растратить её по пустякам - и мой Зенит по-прежнему заряжен низкосортной дешёвкой. Так что живу я впроголодь, но по утрам любуюсь на коробочку Хаукин и это согревает мне душу. Жалкое зрелище, если вдуматься."
+    # "А пока с финансами у меня по-прежнему неважно. Последнюю зарплату я спустил на новейшую мелкозернистую плёнку. Но пока она просто пылится в шкафу, - я боюсь растратить её по пустякам - и мой Зенит по-прежнему заряжен низкосортной дешёвкой. Так что живу я впроголодь, но по утрам любуюсь на коробочку плёнки Хаукин и это согревает мне душу. Жалкое зрелище, если вдуматься."
     "And as of now, my finances are still in bad shape. I have blown my last
     salary on the latest small grain film, but at the moment it only catches
     dust in the cabinet - i'm afraid to waste it on trifles - and my Zenit is
@@ -238,10 +238,10 @@ translate english letter0_71a2cc75:
     bathroom and toilet. After sitting me on a sofa, my host went into the
     aforementioned kitchen and started clinking with glasses."
 
-# game/story/letter0.rpy:107
-translate english letter0_6409a33f:
+# game/story/letter0.rpy:109
+translate english letter0_b0c5c677:
 
-    # "Придя в себя, я стал осматривать комнату. Старый паркет, голые стены, на одной из них висит одинокий небольшой ковёр. Напротив дивана, под ковром - небольшая небрежно заправленная кровать. Ближе к окну шкаф, покосившийся от старости. Складной стол около окна, на нём раскрытая книга обложкой вверх и импровизированная пепельница. С потолка тут и там свисают куски штукатурки. Такая вот комната."
+    # "Придя в себя, я стал осматривать комнату. Старый паркет, голые стены, на одной из них висит одинокий небольшой ковёр. Напротив дивана, под ковром - небольшая небрежно заправленная кровать. Ближе к окну - шкаф, покосившийся от старости. Складной стол около окна, на нём раскрытая книга обложкой вверх и импровизированная пепельница. С потолка тут и там свисают куски штукатурки. Такая вот комната."
     "After i came to senses, i inspected the room. Old parquet, empty walls, a
     small lonely carpet on one of them. In front of the sofa, beneath the
     carpet, a small negligently made bed. Closer to the window, a cabinet,
@@ -285,10 +285,10 @@ translate english letter0_1e52d577:
     "- Wow, - he said slowly as he looked at the card. Then smiled and said:
     - Well, here's to our acquaintance!"
 
-# game/story/letter0.rpy:128
-translate english letter0_ce35a715:
+# game/story/letter0.rpy:130
+translate english letter0_b51dd7a4:
 
-    # "Мы чокнулись и выпили. Пиво оказалось приятно прохладным. Только ощутив эту прохладу, я наконец заметил, что в комнате неестественно жарко, несмотря на раннюю весну. Судя по слабому запаху, на который я раньше не обратил внимания, в кухне что-то готовилось. Впрочем, было не время для подобных отвлечённых наблюдений. Сделав несколько глотков и поставив стакан на пол, Толик поднял конверт и, немного повертев, надорвал его."
+    # "Мы чокнулись и выпили. Пиво оказалось приятно прохладным. Только ощутив эту прохладу, я наконец заметил, что в комнате было неестественно жарко, несмотря на раннюю весну. Судя по слабому запаху, на который я раньше не обратил внимания, в кухне что-то готовилось. Впрочем, было не время для подобных отвлечённых наблюдений. Сделав несколько глотков и поставив стакан на пол, Толик поднял конверт и, немного повертев, надорвал его."
     "We touched our glasses and drank. The beer was pleasantly cool. Only after
     sensing this coolness did i finally notice that it was unnaturally hot in
     the room, despite early spring. Judging by faint smell, which i wasn't
