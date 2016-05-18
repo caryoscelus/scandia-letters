@@ -9,5 +9,17 @@ label start:
         "26-е жерминаля":
             call letter2
             hide letter2
+        "3-е флореаля":
+            call letter3
+            hide letter3
+        #"10-е флореаля":
+            #call letter4
+            #hide letter4
+        #"17-е флореаля":
+            #call letter5
+            #hide letter5
+        #"24-е флореаля":
+            #call letter6
+            #hide letter6
     jump start
     #return
