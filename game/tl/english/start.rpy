@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2016-04-09 00:25
+﻿# TODO: Translation updated at 2016-05-18 23:06
 
 translate english strings:
 
@@ -12,4 +12,8 @@ translate english strings:
 
     # game/start.rpy:2
     old "26-е жерминаля"
-    new "Germinal, 26th (not ready)"
+    new "Germinal, 26th"
+
+    # game/start.rpy:2
+    old "3-е флореаля"
+    new "Floreal, 3rd (not ready)"
