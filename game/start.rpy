@@ -12,9 +12,9 @@ label start:
         "3-е флореаля":
             call letter3
             hide letter3
-        #"10-е флореаля":
-            #call letter4
-            #hide letter4
+        "10-е флореаля":
+            call letter4
+            hide letter4
         #"17-е флореаля":
             #call letter5
             #hide letter5
