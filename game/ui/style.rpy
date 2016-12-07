@@ -5,23 +5,29 @@ label nvl_clear:
     return
 
 init python:
-    def set_padding(left, right):
+    nvl_layout_order = ['left', 'right']
+    nvl_layouts = dict(
+        left=[0, 380],
+        right=[380, 0],
+    )
+    nvl_layout = None
+    
+    def set_padding(paddings):
         global narrator
-        narrator = Character(kind=nvl, window_left_padding=left, window_right_padding=right)
+        c_args = dict(kind=nvl)
+        for i, d in enumerate(nvl_layout_order):
+            c_args['window_{}_padding'.format(d)] = paddings[i]
+        narrator = Character(**c_args)
     
-    def nvl_page(left, right):
-        set_padding(left, right)
+    def nvl_page(layout):
+        global nvl_layout
+        nvl_layout = layout
+        set_padding(nvl_layouts[nvl_layout])
+        
+        renpy.scene()
+        renpy.show('ui bg '+nvl_layout)
+        
         renpy.call('nvl_clear') #duh
-    
-    def nvl_page_left():
-        renpy.scene()
-        renpy.show('ui bg left')
-        nvl_page(0, 380)
-    
-    def nvl_page_right():
-        renpy.scene()
-        renpy.show('ui bg right')
-        nvl_page(380, 0)
 
 transform illustration:
     xalign 0.94
