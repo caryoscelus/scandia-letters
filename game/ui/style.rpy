@@ -5,10 +5,23 @@ label nvl_clear:
     return
 
 init python:
+    current_letter = None
+    
+    def start_letter(n):
+        global current_letter
+        current_letter = n
+        renpy.show('white', what=Solid('#fff'))
+
+init python:
+    class NvlLayout(object):
+        def __init__(self, paddings, imgpos):
+            self.paddings = paddings
+            self.imgpos = imgpos
+    
     nvl_layout_order = ['left', 'right']
     nvl_layouts = dict(
-        left=[0, 380],
-        right=[380, 0],
+        left=NvlLayout([0, 420], [0.94, 0.5]),
+        right=NvlLayout([420, 0], [0.06, 0.5]),
     )
     nvl_layout = None
     
@@ -22,16 +35,26 @@ init python:
     def nvl_page(layout):
         global nvl_layout
         nvl_layout = layout
-        set_padding(nvl_layouts[nvl_layout])
+        set_padding(nvl_layouts[nvl_layout].paddings)
         
-        renpy.scene()
         renpy.show('ui bg '+nvl_layout)
         
         renpy.call('nvl_clear') #duh
 
-transform illustration:
-    xalign 0.94
-    yalign 0.5
+init python:
+    def illustration(name, zoom):
+        image = 'letter{} {}'.format(current_letter, name)
+        trans = [
+            t_zoom(zoom),
+            t_xy_align(*nvl_layouts[nvl_layout].imgpos),
+        ]
+        renpy.show(image, at_list=trans)
+
+transform t_zoom(zoom):
+    zoom zoom
+
+transform t_xy_align(x, y):
+    xalign x yalign y
 
 screen display_note(title, text):
     modal True
