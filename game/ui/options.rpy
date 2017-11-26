@@ -31,7 +31,7 @@ init -1 python hide:
     # These control the name and version of the game, that are reported
     # with tracebacks and other debugging logs.
     config.name = "scandia-letters"
-    config.version = "2016.06.24"
+    config.version = "2016.12.07"
 
     #########################################
     # Themes
@@ -119,7 +119,7 @@ init -1 python hide:
     style.nvl_window.top_padding = 50
     style.nvl_window.bottom_padding = 50
     style.nvl_window.left_padding = 50
-    style.nvl_window.right_padding = 520
+    style.nvl_window.right_padding = 50 #520
 
 
     #########################################

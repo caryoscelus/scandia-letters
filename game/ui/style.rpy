@@ -25,6 +25,9 @@ init python:
     )
     nvl_layout = None
     
+    def curr_nvl_layout():
+        return nvl_layouts[nvl_layout]
+    
     def set_padding(paddings):
         global narrator
         c_args = dict(kind=nvl)
@@ -35,9 +38,10 @@ init python:
     def nvl_page(layout):
         global nvl_layout
         nvl_layout = layout
-        set_padding(nvl_layouts[nvl_layout].paddings)
+        set_padding(curr_nvl_layout().paddings)
         
         renpy.show('ui bg '+nvl_layout)
+        renpy.show('letter_ui', at_list=[t_x(curr_nvl_layout().paddings[0])])
         
         renpy.call('nvl_clear') #duh
 
@@ -46,12 +50,15 @@ init python:
         image = 'letter{} {}'.format(current_letter, name)
         trans = [
             t_zoom(zoom),
-            t_xy_align(*nvl_layouts[nvl_layout].imgpos),
+            t_xy_align(*curr_nvl_layout().imgpos),
         ]
         renpy.show(image, at_list=trans)
 
 transform t_zoom(zoom):
     zoom zoom
+
+transform t_x(x):
+    xoffset x
 
 transform t_xy_align(x, y):
     xalign x yalign y
